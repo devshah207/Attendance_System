@@ -1,0 +1,19 @@
+# Face Recognition and Computer Vision
+opencv-python
+face_recognition
+dlib
+cmake
+Pillow
+
+# Data Processing
+numpy
+
+# Deep Learning (for datasets.py)
+torch
+torchvision
+
+# Database
+mysql-connector-python
+
+# Cloud Services
+boto3
